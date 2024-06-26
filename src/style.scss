@@ -1,0 +1,72 @@
+@import "bootstrap/scss/bootstrap";
+
+/* Home */
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Affichage produit
+#affichage {
+  width: 50%;
+}
+.presentation {
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* ProduitCard */
+
+.prix {
+  font-weight: bold;
+}
+.carte {
+  text-align: center;
+}
+.card-link {
+  text-decoration: none;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin-top: 1rem;
+}
+
+.card-text.prix {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease-in-out;
+}
+/* Formulaire */
+#container {
+  margin-top: 100px;
+}
+/* Footer */
+.custom-footer {
+  min-height: 200px;
+  padding: 20px 0;
+  background-color: #f8f9fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Panier */
+
+.Panier {
+  text-align: justify;
+}
+
+#Total {
+  text-align: center;
+  font-weight: bold;
+}

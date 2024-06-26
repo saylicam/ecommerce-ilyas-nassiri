@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Solar-Powered Garden Lamp",
+    "photo": "./img/lampe.webp",
+    "description": "Lampe de jardin alimentée à l'énergie solaire, idéale pour éclairer votre jardin de manière écologique.",
+    "categorie": "Garden",
+    "prix": "40"
+  },
+  {
+    "id": 2,
+    "name": "Foldable Electric Scooter",
+    "photo": "./img/foldableScooter.webp",
+    "description": "Trottinette électrique pliable, parfaite pour les trajets urbains avec une autonomie de 25 km.",
+    "categorie": "Transportation",
+    "prix": "300"
+  },
+  {
+    "id": 3,
+    "name": "Virtual Reality Cooking Assistant",
+    "photo": "./img/vrCookingAssistant.webp",
+    "description": "Assistant de cuisine en réalité virtuelle qui vous guide pas à pas dans la préparation de recettes.",
+    "categorie": "Kitchen",
+    "prix": "150"
+  },
+  {
+    "id": 4,
+    "name": "Smart Mirror with Fitness Trainer",
+    "photo": "./img/smartMirror.webp",
+    "description": "Miroir intelligent avec entraîneur de fitness intégré, offrant des séances d'entraînement interactives à domicile.",
+    "categorie": "Fitness",
+    "prix": "500"
+  },
+  {
+    "id": 5,
+    "name": "Voice-Activated Coffee Maker",
+    "photo": "./img/voiceCoffeeMaker.webp",
+    "description": "Machine à café activée par la voix, permettant de préparer votre café préféré avec des commandes vocales simples.",
+    "categorie": "Kitchen",
+    "prix": "120"
+  },
+  {
+    "id": 6,
+    "name": "Eco-Friendly Modular Furniture",
+    "photo": "./img/modularFurniture.webp",
+    "description": "Mobilier modulaire écologique fabriqué à partir de matériaux recyclés, personnalisable selon vos besoins.",
+    "categorie": "HomeDecor",
+    "prix": "250"
+  },
+  {
+    "id": 7,
+    "name": "Portable Air Purifier",
+    "photo": "./img/airPurifier.webp",
+    "description": "Purificateur d'air portable, idéal pour améliorer la qualité de l'air intérieur où que vous soyez.",
+    "categorie": "HomeAppliances",
+    "prix": "80"
+  },
+  {
+    "id": 8,
+    "name": "Hydroponic Indoor Garden Kit",
+    "photo": "./img/indoorGardenKit.webp",
+    "description": "Kit de jardinage intérieur hydroponique, parfait pour cultiver des herbes et des légumes frais chez soi.",
+    "categorie": "Garden",
+    "prix": "100"
+  },
+  {
+    "id": 9,
+    "name": "AI-Powered Personal Finance Advisor",
+    "photo": "./img/aiFinanceAdvisor.webp",
+    "description": "Conseiller financier personnel alimenté par l'IA, offrant des conseils personnalisés pour gérer vos finances.",
+    "categorie": "Finance",
+    "prix": "50"
+  },
+  {
+    "id": 10,
+    "name": "Self-Watering Plant Pot",
+    "photo": "./img/selfWateringPot.webp",
+    "description": "Pot de fleurs auto-arrosant, idéal pour les plantes d'intérieur nécessitant peu d'entretien.",
+    "categorie": "Garden",
+    "prix": "25"
+  },
+  {
+    "id": 11,
+    "name": "Compact Portable Projector",
+    "photo": "./img/projecteur.webp",
+    "description": "Projecteur portable compact, parfait pour les présentations et les soirées cinéma en plein air.",
+    "categorie": "Electronics",
+    "prix": "200"
+  },
+  {
+    "id": 12,
+    "name": "Smart Fitness Scale",
+    "photo": "./img/fitnessScale.webp",
+    "description": "Balance de fitness intelligente qui suit votre poids, IMC et autres métriques de santé.",
+    "categorie": "Fitness",
+    "prix": "60"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Smart Light Bulbs",
+    "photo": "./img/smartBulbs.webp",
+    "description": "Ampoules intelligentes sans fil contrôlées par application pour ajuster la luminosité et les couleurs.",
+    "categorie": "HomeDecor",
+    "prix": "80"
+  },
+  {
+    "id": 14,
+    "name": "Bluetooth Sleep Headphones",
+    "photo": "./img/sleepHeadphones.webp",
+    "description": "Casque Bluetooth confortable conçu pour être porté pendant le sommeil avec une qualité sonore supérieure.",
+    "categorie": "Electronics",
+    "prix": "70"
+  },
+  {
+    "id": 15,
+    "name": "Solar Backpack",
+    "photo": "./img/solarBackpack.webp",
+    "description": "Sac à dos solaire avec panneaux intégrés pour charger vos appareils électroniques en déplacement.",
+    "categorie": "Outdoors",
+    "prix": "150"
+  },
+  {
+    "id": 16,
+    "name": "Smart Pet Feeder",
+    "photo": "./img/smartPetFeeder.webp",
+    "description": "Distributeur de nourriture intelligent pour animaux de compagnie, programmable via application pour nourrir vos animaux à distance.",
+    "categorie": "Pets",
+    "prix": "100"
+  },
+  {
+    "id": 17,
+    "name": "Wearable Posture Corrector",
+    "photo": "./img/postureCorrector.webp",
+    "description": "Correcteur de posture portable qui vibre pour vous rappeler de vous redresser.",
+    "categorie": "Health",
+    "prix": "40"
+  },
+  {
+    "id": 18,
+    "name": "Smart Watering System",
+    "photo": "./img/smartWateringSystem.webp",
+    "description": "Système d'arrosage intelligent pour jardins et pelouses, contrôlable via application pour une irrigation efficace.",
+    "categorie": "Garden",
+    "prix": "200"
+  }
+]
